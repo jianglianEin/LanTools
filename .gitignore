@@ -1,5 +1,0 @@
-.*
-!.gitignore
-selfInfo.json
-__pycache__/
-node_modules/
